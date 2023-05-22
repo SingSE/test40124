@@ -18,7 +18,7 @@ $db = new dbHandler();
 <body>
 <header class="jumbotron-fluid">
     <div class="container">
-        <h1 class="display-4">Edit Word</h1>
+        <h1 class="display-4">ik neuk peop</h1>
     </div>
 </header>
 <?php
